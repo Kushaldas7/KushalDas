@@ -1,4 +1,4 @@
-<h2><u>&nbsp&nbsp&nbsp&nbsp&nbsp Hi, it's me Kushal Das 🤓</u></h2>
+<h2><u>&nbsp&nbsp&nbsp&nbsp&nbsp Hi, it's me Kushal Das </u></h2>
 <ul>
  <li>🎓 I'm currently pursuing MCA from Netaji Subhash Engineering College</li>
 <li>👀 I’m interested in Web Development</li>
